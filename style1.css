@@ -1,0 +1,60 @@
+*{
+    margin: 0%;
+    background-color: cornsilk;
+    padding: 0%;
+}
+
+header{
+display: flex;
+justify-content: space-between;
+margin-left: 2rem;
+margin-top: 5px;
+}
+
+ul{
+    display: flex;
+    margin-top: 10px;
+   justify-content: space-evenly;
+   list-style-type: none;
+    font-size: x-large;
+} 
+
+nav{
+    width: 60%;
+    margin-top: -0.2rem;
+}
+
+li :hover{
+    cursor: pointer;
+    color: red;
+}
+
+img{
+    width: 95vw;
+}
+
+b{
+    margin-right: 10px;
+    display:flex;
+    height: 10rem;
+    width: 8rem;
+    margin-top: 5%;
+    justify-items: last baseline;
+}
+.pic{
+    
+    margin-top: 15px;
+    height: 50rem;
+    width: 84.3rem;
+    margin-right: 0px;
+}
+.javaScript{
+    margin-right: 0px;
+    padding-right: 0px;
+    margin-left: 25rem;
+
+}
+.css{
+    margin-left: 25rem;
+}
+    
